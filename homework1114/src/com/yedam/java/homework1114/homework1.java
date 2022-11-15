@@ -50,6 +50,24 @@ public class homework1 {
 		}
 		System.out.println("숫자" + count);
 		System.out.println("알파벳" + alpa);
+		
+// 			String str = "1a2v4b"; //교수님 도움~
+// 		int count = 0;
+// 		int alpa = 0;
+
+// 		for (int i = 0; i < str.length(); i++) {  //범위가 달랏어... i>str.length()했었는데 교수님이 바까주심
+// 			System.out.println(str.charAt(i));
+// 			if ('a' <= str.charAt(i) && 'z' >= str.charAt(i)) {
+// 				alpa++;
+// 			} else if (0 <= (short)str.charAt(i) && 9 <= (short)str.charAt(i)) {//'0'<=str.charAt(i) 일케 햇엇는데 0 <= (short)str.charAt(i) 이런식으로 댐..
+// 				count++;
+// 			}
+
+
+// 		}
+// 		System.out.println("숫자" + count);
+// 		System.out.println("알파벳" + alpa);
+	
 	}
 
 }
